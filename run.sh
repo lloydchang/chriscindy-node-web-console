@@ -1,3 +1,5 @@
+#!/bin/bash
+
 git clone https://github.com/ChrisCindy/node-web-console.git
 cd node-web-console
 
