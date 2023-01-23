@@ -12,6 +12,8 @@ npm run client:build
 # Browserslist: caniuse-lite is outdated. Please run next command `npm update caniuse-lite browserslist`
 npm update caniuse-lite browserslist
 
+npm install cross-env
+
 ## start the server with pm2 
 npm run prod
 
